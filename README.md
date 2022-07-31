@@ -24,15 +24,11 @@ Review and analyze results
 
 ![Finding K value 2022-07-31 082355](https://user-images.githubusercontent.com/105945472/182037546-1546ff10-5590-4ce9-8224-36fe96f506f7.jpg)
 
-**Step 3 Enaching cluster data:**
-
-![Cryto Currency Scatter Plot2022-07-31 163737](https://user-images.githubusercontent.com/105945472/182050061-33b7531c-0290-48d7-adfb-3626d85cfbef.jpg)
-
-**Step 4 Cluster crypto "k" values with orginial data:**
+**Step 3 Cluster crypto "k" values with orginial data:**
 
 ![clustering crypto k value with og data 2022-07-31 082447](https://user-images.githubusercontent.com/105945472/182050542-4d6502c8-c09f-48d3-82c1-e4778a5c7855.jpg)
 
-**Step 5 Enhance cluster with PCA (Principle Componet Ayalysis):**
+**Step 4 Enhance cluster with PCA (Principle Componet Ayalysis):**
 
 ![Enhancing Cluster with PCA  2022-07-31 082545](https://user-images.githubusercontent.com/105945472/182050567-1091a965-d646-42f6-b8d1-26537063c1b4.jpg)
 
