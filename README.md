@@ -5,6 +5,7 @@
 This challenge requires a combination of programing skills combined with unspervised learning skills by clustering crytocurrancies based on their conduct and extent of time.
 
 **Moduel Challenge 10 Goals and Objectives:**
+
 Import libraiers and directories
 Import Data and Collect Data
 Find the best "K" value using initial data
