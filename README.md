@@ -26,7 +26,7 @@ Review and analyze results
 
 **Step 3 Enaching cluster data:**
 
-
+![Cryto Currency Scatter Plot2022-07-31 163737](https://user-images.githubusercontent.com/105945472/182050061-33b7531c-0290-48d7-adfb-3626d85cfbef.jpg)
 
 **Step 4 Cluster crypto "k" values with orginial data:**
 
