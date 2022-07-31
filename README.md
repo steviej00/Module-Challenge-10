@@ -18,9 +18,15 @@ Review and analyze results
 **Step 1 Prepare Data:**
 
 **Technologies**
-The following libraries / tools are required our code
--Pandas
--Hvplot
--Pathlib 
--KMeans
--Standard Scaler
+
+The following libraries / tools are required our code:
+
+- Pandas
+
+- Hvplot
+
+- Pathlib 
+
+- KMeans
+
+- Standard Scaler
