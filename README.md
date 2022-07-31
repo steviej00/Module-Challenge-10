@@ -17,6 +17,9 @@ Review and analyze results
 
 **Step 1 Prepare Data:**
 
+![Screenshot 2022-07-31 082309](https://user-images.githubusercontent.com/105945472/182037403-63481f8c-ec9c-4a2f-ba52-920472f5983d.jpg)
+
+
 **Technologies**
 
 The following libraries / tools are required our code:
