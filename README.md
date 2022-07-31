@@ -34,6 +34,7 @@ Review and analyze results
 
 **Step 5 Enhance cluster with PCA (Principle Componet Ayalysis):**
 
+![Enhancing Cluster with PCA  2022-07-31 082545](https://user-images.githubusercontent.com/105945472/182050567-1091a965-d646-42f6-b8d1-26537063c1b4.jpg)
 
 
 **Step 5 Cluster original data with PCA:**
