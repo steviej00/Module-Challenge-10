@@ -20,6 +20,10 @@ Review and analyze results
 ![Screenshot 2022-07-31 082309](https://user-images.githubusercontent.com/105945472/182037403-63481f8c-ec9c-4a2f-ba52-920472f5983d.jpg)
 
 
+**Step 2 Find the best "k" value using original data:**
+
+
+
 **Technologies**
 
 The following libraries / tools are required our code:
