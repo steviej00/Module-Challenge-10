@@ -24,9 +24,11 @@ Review and analyze results
 
 ![Finding K value 2022-07-31 082355](https://user-images.githubusercontent.com/105945472/182037546-1546ff10-5590-4ce9-8224-36fe96f506f7.jpg)
 
+
 **Step 3 Cluster crypto "k" values with orginial data:**
 
 ![clustering crypto k value with og data 2022-07-31 082447](https://user-images.githubusercontent.com/105945472/182050542-4d6502c8-c09f-48d3-82c1-e4778a5c7855.jpg)
+
 
 **Step 4 Enhance cluster with PCA (Principle Componet Ayalysis):**
 
@@ -38,7 +40,10 @@ Review and analyze results
 ![Best K value using PCA 2022-07-31 165447](https://user-images.githubusercontent.com/105945472/182050812-c1e202c0-4f3e-4900-b654-48a7e5d8d0da.jpg)
 
 
-**Step 6 Cluster**
+**Step 6 Cluster Cyrpto "k" vlaue with PCA**
+
+![Crypto Cluster PCA2022-07-31 170122](https://user-images.githubusercontent.com/105945472/182050908-0e845f2f-011a-42c0-a457-b1f31357445a.jpg)
+
 
 **Technologies**
 
