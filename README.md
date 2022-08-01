@@ -33,11 +33,12 @@ Review and analyze results
 ![Enhancing Cluster with PCA  2022-07-31 082545](https://user-images.githubusercontent.com/105945472/182050567-1091a965-d646-42f6-b8d1-26537063c1b4.jpg)
 
 
-**Step 5 Cluster original data with PCA:**
+**Step 5 Finding the best "k" value using PCA data:**
+
+![Best K value using PCA 2022-07-31 165447](https://user-images.githubusercontent.com/105945472/182050812-c1e202c0-4f3e-4900-b654-48a7e5d8d0da.jpg)
 
 
-
-**Step 6 Cluster
+**Step 6 Cluster**
 
 **Technologies**
 
