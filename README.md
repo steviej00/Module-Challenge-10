@@ -50,8 +50,13 @@ Review and analyze results
 
 **Step 8 Added OG Cypto add PCA Crypto**
 
+![OG cyrpto add crpto pca cluster 2022-07-31 170511](https://user-images.githubusercontent.com/105945472/182051182-181de789-31b8-4e82-a04b-0afd4f09522f.jpg)
 
 
+**Question**: After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
+
+**Conclusion**
+From my perspective the impact of using fewer features to cluster makes the results easier to interpret.
 
 **Technologies**
 
