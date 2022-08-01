@@ -44,6 +44,14 @@ Review and analyze results
 
 ![Crypto Cluster PCA2022-07-31 170122](https://user-images.githubusercontent.com/105945472/182050908-0e845f2f-011a-42c0-a457-b1f31357445a.jpg)
 
+**Step 7 Added OG "k" value and PCA "k" value (elbow) 
+
+![OG K value add K pca data elbow2022-07-31 170420](https://user-images.githubusercontent.com/105945472/182051094-007ecf9b-9856-4848-a1d4-e9682b1d21df.jpg)
+
+**Step 8 Added OG Cypto add PCA Crypto**
+
+
+
 
 **Technologies**
 
